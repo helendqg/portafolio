@@ -1,0 +1,66 @@
+.portafolio{
+	color:#F05F40;
+}
+.color a:hover{
+		color:#F05F40; 
+}
+.fondo{
+	background-image:url(../img/header.jpg);
+	background-repeat:no-repeat;
+	background-position:0 20%;
+	background-size:cover;
+	margin:0%;
+	padding:5%;
+	color:#fff;
+}
+.raya{
+	border:2px solid;
+	width:10%;
+	color:#F05F40;
+}
+.red{
+	background-color:#F05F40;
+	color:#fff;
+	margin:0%;
+}
+.guion{
+	border:2px solid;
+	width:10%;
+	color:#fff;
+}
+.txtOverlay{ 
+	width:100%; 
+	height:206px;
+	opacity:0.9; 
+	font-size:20px; 
+	font-weight:700; 
+	text-align:justify;  
+} 
+.img1{
+	background: url(../img/1.jpg) no-repeat;
+}
+.img2{
+	background: url(../img/2.jpg) no-repeat;
+}
+.img3{
+	background: url(../img/3.jpg) no-repeat;
+}
+.img4{
+	background: url(../img/4.jpg) no-repeat;
+}
+.img5{
+	background: url(../img/5.jpg) no-repeat;
+}
+.img6{
+	background: url(../img/6.jpg) no-repeat;
+}
+.theText{ 
+	opacity:0;
+} 
+.txtOverlay:hover .theText { 
+	opacity:0.9; 
+	background-color:#F05F40;
+	color:#F6C1B3; 
+	font-size:20px; 
+	font-weight:700; 
+}
